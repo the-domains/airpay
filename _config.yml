@@ -1,19 +1,4 @@
-name: airpay
-favicon: null
-layout_spectrum: 0.9937556234654039
 typography_spectrum: 0.7753507487941533
-cta:
-  domain: null
-  bucket: null
-  version: null
-analytics:
-  google: null
-  facebook: null
-  twitter: null
-opengraph:
-  image: null
-  type: null
-  appId: null
 color:
   brandColors:
     - '#B8B42D'
@@ -25,4 +10,20 @@ color:
   lightness: 0.9053220152854919
   saturation: 0.9407878557685763
   rhythmicContrast: 0.1370441010221839
+opengraph:
+  image: null
+  type: null
+  appId: null
+layout_spectrum: 0.9937556234654039
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+name: airpay
+cta:
+  domain: null
+  bucket: null
+  version: null
+favicon: null
+title: labholG
 purpose: []
